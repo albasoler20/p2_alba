@@ -31,7 +31,7 @@ void alba(float px, float py){
    
    
     //Gorro
-  line(0, 60, 150, 60);
+  line(0, 60, 90, 60);
  
  
   // Ojos
